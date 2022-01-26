@@ -1,1 +1,2 @@
 # Linux-Iptables-Firewall-Server
+### A shell script on iptables rules for a webserver (no need to use APF or CSF) just run this script from /etc/rc.local and you are done. Save following script as /root/scripts/fw.start:
